@@ -1,0 +1,9 @@
+Library/
+Builds/
+Logs/
+obj/
+Assets/TextMesh Pro
+Assets/VFX
+*.vs
+*.vsconfig
+*.meta
